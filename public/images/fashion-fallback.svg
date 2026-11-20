@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1067" role="img" aria-labelledby="title desc">
+  <title id="title">NEXTO fashion image placeholder</title>
+  <desc id="desc">A minimal line illustration of a folded garment on a warm ivory background.</desc>
+  <rect width="800" height="1067" fill="#F0EBE2"/>
+  <circle cx="400" cy="390" r="230" fill="#E7E0D5"/>
+  <path d="M300 278 365 244Q400 270 435 244L500 278 590 365 520 425 480 385 480 625 320 625 320 385 280 425 210 365Z" fill="#6B7B6E" stroke="#526457" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M365 244Q400 315 435 244" fill="none" stroke="#F9F6F0" stroke-width="10" stroke-linecap="round"/>
+  <path d="M350 430H450M350 455H450" stroke="#F9F6F0" stroke-width="5" stroke-linecap="round" opacity=".55"/>
+  <text x="400" y="760" text-anchor="middle" font-family="Georgia,serif" font-size="54" letter-spacing="10" fill="#2E2D2B">NEXTO</text>
+  <text x="400" y="810" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" letter-spacing="5" fill="#7E7C77">EVERYDAY FORM, REFINED</text>
+</svg>
